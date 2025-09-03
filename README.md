@@ -3,7 +3,7 @@ Hi! I'm Rakesh, a passionate and creative tech enthusiast currently pursuing a B
 I specialize in front-end development and UI/UX design, with hands-on experience building projects like calculators, e-commerce websites, and travel platforms. I love crafting smooth, responsive, and visually engaging user experiences that solve real problems and make an impact.
 
 🛠️ Tech Skills:
-HTML | CSS | JavaScript | React | Figma
+HTML | CSS | JavaScript | React | Figma  | Next Js
 
 I’m confident using these tools to turn ideas into interactive, user-friendly products. I'm also a quick learner, a curious and detail-oriented team player, and always looking to grow.
 
